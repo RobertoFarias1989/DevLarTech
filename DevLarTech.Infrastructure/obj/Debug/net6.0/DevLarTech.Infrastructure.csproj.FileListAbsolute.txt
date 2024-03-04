@@ -1,0 +1,17 @@
+C:\Git\DevLarTech\DevLarTech.Infrastructure\bin\Debug\net6.0\DevLarTech.Infrastructure.deps.json
+C:\Git\DevLarTech\DevLarTech.Infrastructure\bin\Debug\net6.0\DevLarTech.Infrastructure.runtimeconfig.json
+C:\Git\DevLarTech\DevLarTech.Infrastructure\bin\Debug\net6.0\DevLarTech.Infrastructure.dll
+C:\Git\DevLarTech\DevLarTech.Infrastructure\bin\Debug\net6.0\DevLarTech.Infrastructure.pdb
+C:\Git\DevLarTech\DevLarTech.Infrastructure\bin\Debug\net6.0\DevLarTech.Core.dll
+C:\Git\DevLarTech\DevLarTech.Infrastructure\bin\Debug\net6.0\DevLarTech.Core.pdb
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.csproj.AssemblyReference.cache
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.AssemblyInfoInputs.cache
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.AssemblyInfo.cs
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.csproj.CopyComplete
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.dll
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\refint\DevLarTech.Infrastructure.dll
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.pdb
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\DevLarTech.Infrastructure.genruntimeconfig.cache
+C:\Git\DevLarTech\DevLarTech.Infrastructure\obj\Debug\net6.0\ref\DevLarTech.Infrastructure.dll
