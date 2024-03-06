@@ -5,7 +5,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto desenvolvido visando atender o teste técnico proposta pela empresa [Lar Cooperativa Agroindustrial](https://www.lar.ind.br/).
+Projeto desenvolvido visando atender ao teste técnico proposto pela empresa [Lar Cooperativa Agroindustrial](https://www.lar.ind.br/).
 
 Para excutar o projeto localmente será necessário instalar o SQL Server e informar sua string de conexão no appsettings.json.
 
