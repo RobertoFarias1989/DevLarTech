@@ -7,7 +7,7 @@
 
 Projeto desenvolvido visando atender ao teste técnico proposto pela empresa [Lar Cooperativa Agroindustrial](https://www.lar.ind.br/).
 
-Para excutar o projeto localmente será necessário instalar o SQL Server e informar sua string de conexão no appsettings.json.
+Para executar o projeto ,localmente, será necessário instalar o SQL Server e informar sua string de conexão no appsettings.json.
 
 Cadastre um usuário, faça o login e informe o token para poder ter acesso aos enpoints para cadastro de Pessoa.
 
